@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Shopkeeper</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="hye">Hye</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_client_exists">Client Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_message_contactNumber">Enter Correct Mobile Number</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="text_member">Already a member? Login</string>
+    <string name="add_user">Add User</string>
+    <string name="user_details">User Details</string>
+    <string name="category_gender">Gender</string>
+    <string name="overview">Overview</string>
+
+
+    //Gender Options
+    <string name="gender_unknown">Unknown</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="save">Save</string>
+    <string name="textview">TextView</string>
+
+    <string name="todo">TODO</string>
+    <string name="amount">Amount</string>
+    <string name="number">No.</string>
+    <string name="date">Date</string>
+    <string name="status">Status</string>
+    <string name="_0">0</string>
+    <string name="done">Done</string>
+
+    <string name="due">Due</string>
+    <string name="extra">Extra</string>
+    <string name="unknown">Unknown</string>
+    <string name="error_amount_empty">Amount is Empty</string>
+
+</resources>
